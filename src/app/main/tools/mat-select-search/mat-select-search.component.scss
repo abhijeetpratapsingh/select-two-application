@@ -1,0 +1,32 @@
+mat-select-search .mat-form-field {
+  width: 100%;
+}
+.search-box{
+  height: 70px;
+  overflow-y: auto;
+  padding: 12px;
+}
+
+.mat-select-search .mat-form-field .mat-form-field-infix {
+  padding: 14px 0 10px !important;
+  margin-top: 0;
+  font-size: 14px;
+  //border: 0;
+}
+.mat-select-search .search-box input {
+  padding: 7px 15px;
+  width: 100%;
+  border: solid 1px #ccc;
+  border-radius: 5px;
+}
+.mat-select-search .search-box {
+  border-radius: 5px;
+  width: 100%;
+  padding: 5px 5px;
+}
+.mat-select-search {
+  overflow: hidden;
+}
+.mat-select-search .search-box input:focus {
+  border: solid 1px transparent;
+}
