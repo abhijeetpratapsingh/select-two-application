@@ -26,5 +26,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 "# select-two-application" 
-<iframe src="https://giphy.com/embed/gfUCRcFiAmyqITXOli" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/materialdesign-mat-design-selectwithsearch-gfUCRcFiAmyqITXOli">via GIPHY</a></p>
+![Alt Text](https://giphy.com/gifs/gfUCRcFiAmyqITXOli)
 
